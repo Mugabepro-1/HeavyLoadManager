@@ -1,4 +1,4 @@
-package heavyLoadManager;
+package HeavyLoadManager;
 
 import com.github.javafaker.Faker;
 
